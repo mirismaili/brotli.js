@@ -1,0 +1,23 @@
+{
+	"name": "brotli.js",
+	"version": "0.0.0",
+	"description": "Pure JavaScript implementation of Brotli (encoder/decoder)",
+	"keywords": [],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mirismaili/brotli.js"
+	},
+	"license": "MIT",
+	"author": "S. Mahdi Mir-Ismaili <s.m.mirismaili@gmail.com>",
+	"type": "module",
+	"main": "src/main.js",
+	"files": [
+		"src"
+	],
+	"scripts": {},
+	"dependencies": {},
+	"devDependencies": {},
+	"engines": {
+		"node": ">=16"
+	}
+}
